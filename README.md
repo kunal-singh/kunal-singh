@@ -4,23 +4,15 @@
 
 Hello! I'm Kunal, a seasoned full-stack developer with a passion for crafting high-performance web, mobile, and desktop applications. With a strong foundation in frontend technologies, I'm constantly expanding my skills to bridge the gap between various platforms.
 
-
 ### 🛠 Tech Stack
 
-**Frontend:** 
-- React, Angular, NextJS, ElectronJS
-- TailwindCSS, Redux, Jotai, RxJS
+**Frontend:** React, Angular, NextJS, ElectronJS, TailwindCSS, Redux, Jotai, RxJS
 
-**Backend:** 
-- AWS Serverless, NestJS
-- GraphQL, MongoDB
+**Backend:** AWS Serverless, NestJS, GraphQL, MongoDB
 
-**Testing & Automation:** 
-- Jest, Playwright, CircleCI
+**Testing & Automation:** Jest, Playwright, CircleCI
 
-**DevOps:** 
-- Docker, AWS
-
+**DevOps:** Docker, AWS
 
 ### 🚀 What I'm up to
 
@@ -31,5 +23,3 @@ Hello! I'm Kunal, a seasoned full-stack developer with a passion for crafting hi
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
-
-
