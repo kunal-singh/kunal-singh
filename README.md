@@ -1,16 +1,21 @@
-## Hi there 👋
+# Kunal Singh
 
-<!--
-**kunal-singh/kunal-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Senior JavaScript Developer | React Enthusiast | Exploring Cross-Platform Development
 
-Here are some ideas to get you started:
+Hello! I'm Kunal, a seasoned full-stack developer with a passion for crafting high-performance web, mobile, and desktop applications. With a strong foundation in frontend technologies, I'm constantly expanding my skills to bridge the gap between various platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Frontend:** React, Angular, NextJS, ElectronJS, TailwindCSS, Redux, Jotai, RxJS
+- **Backend:** AWS Serverless, NestJS, GraphQL, MongoDB
+- **Testing & Automation:** Jest, Playwright, CircleCI
+- **DevOps:** Docker, AWS
+
+### 🚀 What I'm up to
+
+- 🔭 Currently working on enterprise-level desktop applications using ElectronJS, React, and WebRTC
+- 🌱 Learning and expanding my skills in mobile and desktop development
+- 👯 Open to collaborating on innovative projects that push the boundaries of cross platform technologies
+
+Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
+
