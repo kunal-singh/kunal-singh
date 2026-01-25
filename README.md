@@ -1,25 +1,27 @@
 # Kunal Singh
+## 👨‍💻 Full-Stack Engineer | Exploring ML & AI
 
-## 👨‍💻 Senior JavaScript Developer | React Enthusiast | Exploring Cross-Platform Development
-
-Hello! I'm Kunal, a seasoned full-stack developer with a passion for crafting high-performance web, mobile, and desktop applications. With a strong foundation in frontend technologies, I'm constantly expanding my skills to bridge the gap between various platforms.
+Hello! I'm Kunal, a full-stack engineer with 10+ years of experience building scalable web applications, distributed systems, and leading engineering teams. I've progressed from frontend specialist to architecting  microservices and managing cross-functional teams remotely.
 
 ### 🛠 Tech Stack
 
-**Frontend:** React, Angular, NextJS, ElectronJS, TailwindCSS, Redux, Jotai, RxJS
+**Frontend:** React, TypeScript, Next.js, Angular, TailwindCSS, Redux, Electron.js
 
-**Backend:** AWS Serverless, NestJS, GraphQL, MongoDB, Firebase, Supabase
+**Backend & Infrastructure:** Python, Node.js, Kubernetes, Redis, MongoDB, PostgreSQL, Docker
 
-**Testing & Automation:** Jest, Playwright, Vitest
-
-**DevOps & Build Tools:** Docker, AWS, Nx, PNPM Workspaces
-
+**Currently Exploring:** Machine Learning, ML model deployment, AI-driven systems
 
 ### 🚀 What I'm up to
 
-- 🔭 Currently working on enterprise-level desktop applications using ElectronJS, React, and WebRTC
-- 🌱 Learning and expanding my skills in mobile and desktop development
-- 👯 Open to collaborating on innovative projects that push the boundaries of cross-platform technologies
+- 🔭 Leading engineering teams at Pebble Inc., building event-driven distributed systems with Python, Redis Streams, and Kubernetes
+- 🌱 Exploring machine learning and AI - collaborating with senior AI engineers on ML model training and deployment strategies
+- 👯 Open to collaborating on innovative projects involving distributed systems, ML/AI, or full-stack development
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/kunal-singh-94007873/)
+- 🌐 [Website](https://kunal-singh.com)
+- 📧 hi@kunal-singh.com
 
 ---
 
