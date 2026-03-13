@@ -1,7 +1,8 @@
 # Kunal Singh
 
-Full-stack engineer, 10+ years. Frontend is my home — React, 
-TypeScript, Next.js — but I'm comfortable owning the whole stack.
+Full-stack engineer with 10+ years building and leading engineering
+at early-stage startups. Own the frontend, comfortable across the
+whole stack.
 
 Currently building event-driven ML infrastructure at a SF startup. Dabbling with MCP tooling, hybrid search, 
 and trying to make Claude code actually useful in my daily workflow.
@@ -44,4 +45,4 @@ embeddings (sqlite-vec), and RRF fusion for personal knowledge retrieval.
 
 ---
 
-hi@kunal-singh.com · (kunal-singh.com)[kunal-singh.com] · (LinkedIn)[linkedin.com/in/kunal-singh-94007873]
+hi@kunal-singh.com · [kunal-singh.com](kunal-singh.com) · [LinkedIn](linkedin.com/in/kunal-singh-94007873)
