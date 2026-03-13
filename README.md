@@ -1,28 +1,47 @@
 # Kunal Singh
-## 👨‍💻 Full-Stack Engineer | Exploring ML & AI
 
-Hello! I'm Kunal, a full-stack engineer with 10+ years of experience building scalable web applications, distributed systems, and leading engineering teams. I've progressed from frontend specialist to architecting  microservices and managing cross-functional teams remotely.
+Full-stack engineer, 10+ years. Frontend is my home — React, 
+TypeScript, Next.js — but I'm comfortable owning the whole stack.
 
-### 🛠 Tech Stack
-
-**Frontend:** React, TypeScript, Next.js, Angular, TailwindCSS, Redux, Electron.js
-
-**Backend & Infrastructure:** Python, Node.js, Kubernetes, Redis, MongoDB, PostgreSQL, Docker
-
-**Currently Exploring:** Machine Learning, ML model deployment, AI-driven systems
-
-### 🚀 What I'm up to
-
-- 🔭 Leading engineering teams at Pebble Inc., building event-driven distributed systems with Python, Redis Streams, and Kubernetes
-- 🌱 Exploring machine learning and AI - collaborating with senior AI engineers on ML model training and deployment strategies
-- 👯 Open to collaborating on innovative projects involving distributed systems, ML/AI, or full-stack development
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/kunal-singh-94007873/)
-- 🌐 [Website](https://kunal-singh.com)
-- 📧 hi@kunal-singh.com
+Currently building event-driven ML infrastructure at a SF startup. Dabbling with MCP tooling, hybrid search, 
+and trying to make Claude code actually useful in my daily workflow.
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
+## What I'm building
+
+**[mcp-generator](https://github.com/kunal-singh/mcp-generator)** — scaffold a production-ready MCP server 
+in Node.js with one command
+
+**[raindrop-mcp](https://github.com/kunal-singh/raindrop-mcp)** — MCP server for Raindrop.io; semantic 
+search over your bookmarks from Claude Desktop or Claude Code
+
+**[claude-code-plugins](https://github.com/kunal-singh/claude-code-plugins)** — collection of custom Claude Code 
+plugins I've built and use daily. Workflow-first, nothing theoretical.
+
+**[cometa](https://github.com/kunal-singh/cometa)** — minimal static site generator built for my portfolio setup. Published on JSR.
+
+
+---
+
+## Stack
+
+**Frontend** React · TypeScript · Next.js · TailwindCSS · Redux  
+**Backend** Node.js · Python · PostgreSQL · Redis · MongoDB  
+**Infra** AWS · GCP · Kubernetes · Docker  
+**AI/LLM** MCP · RAG · sqlite-vec · OpenAI API · Claude  
+
+---
+
+## Currently building
+
+Building a local-first newsletter search engine — emails get parsed, 
+chunked, embedded, and exposed as an MCP server so I can search 
+everything I've ever subscribed to from inside Claude.
+
+Also deep in hybrid search: combining BM25 (FlexSearch), semantic 
+embeddings (sqlite-vec), and RRF fusion for personal knowledge retrieval.
+
+---
+
+hi@kunal-singh.com · (kunal-singh.com)[kunal-singh.com] · (LinkedIn)[linkedin.com/in/kunal-singh-94007873]
