@@ -4,8 +4,6 @@ Full-stack engineer with 10+ years building and leading engineering
 at early-stage startups. Own the frontend, comfortable across the
 whole stack.
 
-Currently building event-driven ML infrastructure at a SF startup. Dabbling with MCP tooling, hybrid search, 
-and trying to make Claude code actually useful in my daily workflow.
 
 ---
 
@@ -31,17 +29,6 @@ plugins I've built and use daily. Workflow-first, nothing theoretical.
 **Backend** Node.js · Python · PostgreSQL · Redis · MongoDB  
 **Infra** AWS · GCP · Kubernetes · Docker  
 **AI/LLM** MCP · RAG · sqlite-vec · OpenAI API · Claude  
-
----
-
-## Currently building
-
-Building a local-first newsletter search engine — emails get parsed, 
-chunked, embedded, and exposed as an MCP server so I can search 
-everything I've ever subscribed to from inside Claude.
-
-Also deep in hybrid search: combining BM25 (FlexSearch), semantic 
-embeddings (sqlite-vec), and RRF fusion for personal knowledge retrieval.
 
 ---
 
